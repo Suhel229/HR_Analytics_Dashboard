@@ -12,7 +12,7 @@ Help HR managers understand workforce trends and take proactive steps to manage 
 
 **Key Insights:**
 - **Attrition Rate:** Overall 16.1%, highest in Life Sciences at 38% 🚪
-- **Age & Salary:** Most attrition in the 26-35 age group and for employees earning under $5K 💸
+- **Age & Salary:** Most attrition in the 26-35 age group and for employees earning under 5K 💸
 - **Job Roles:** Laboratory Technicians face 62% attrition 🔬
 - **Gender:** Males have higher attrition (140 out of 237) 👨‍💼👩‍💼
 
